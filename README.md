@@ -1,5 +1,7 @@
 # Vue Expense Tracker
 
+# [Try it here!](https://vue-expense-tracker-kappa.vercel.app/)
+
 A simple and intuitive expense tracker built with Vue 3 that allows users to manage their finances by adding, viewing, and deleting transactions. The app calculates the total balance, income, and expenses in real-time and persists data in the browser's local storage. It also includes toast notifications for transaction updates.
 
 ![alt text](https://raw.githubusercontent.com/StanciuMihai/Vue-Expense-Tracker/main/src/assets/preview.PNG)
