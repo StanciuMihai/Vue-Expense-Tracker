@@ -1,6 +1,6 @@
-# vue-expense-tracker
+# Vue Expense Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and intuitive expense tracker built with Vue 3 that allows users to manage their finances by adding, viewing, and deleting transactions. The app calculates the total balance, income, and expenses in real-time and persists data in the browser's local storage. It also includes toast notifications for transaction updates.
 
 ## Recommended IDE Setup
 
